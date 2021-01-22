@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item android:id="@+id/circuleBackground">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="oval">
+
+
+      <solid android:color="@color/emui_color_gray_7"/>
+
+      <corners android:radius="360dip"/>
+
+      <padding
+          android:left="10dp"
+          android:top="10dp"
+          android:right="10dp"
+          android:bottom="10dp"/>
+    </shape>
+  </item>
+  <item android:drawable="@drawable/mic_icon"
+  android:height="80dp"
+  android:width="80dp"
+  android:gravity="center"/>
+</layer-list>

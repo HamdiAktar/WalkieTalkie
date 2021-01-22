@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WalkieTalkie</string>
+    <string name="action_settings">Settings</string>
+    <string name="warn">Warn</string>
+    <string name="btn_confirm">Confirm</string>
+
+    <string name="status_unknown">Please wait</string>
+    <string name="status_connected">Connected\nHold the above button to talk</string>
+    <string name="status_searching">Looking for a device to connect to</string>
+</resources>
